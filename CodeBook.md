@@ -3,7 +3,7 @@ with the average of each variable for each activity and each subject.
 
 The subset contains following columns:
 
-`
+```
 Subject - Identifies the subject who performed the activity. 1:30
 Activity - 
 	WALKING
@@ -601,4 +601,4 @@ Next 561 variables contain preprocessed features from the following list:
 559 angle(X,gravityMean)
 560 angle(Y,gravityMean)
 561 angle(Z,gravityMean)
-`
+```
