@@ -2,14 +2,6 @@
 1. Extract project data.
    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 2. Create the directory data inside of extraced folder.
-   Tree list should be like
-   + UCI HAR Dataset
-    + data
-    + test
-    + train
-    README.txt
-    ...
-   
 3. Move scripts/connect.sh into data folder.
 4. execute bash script. all files from test and train folders will be concatenated into data folder.
 5. Move scrips/run_analysis.R into data folder.
